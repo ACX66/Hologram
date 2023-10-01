@@ -21,5 +21,6 @@ Atention: Before you use this plugin, you need to add the pre-plugin [BEPlaceHol
 
 ## Images
 
-![Hologram_1](https://github.com/ACX66/Hologram/assets/104246753/1728d636-fd99-4aaf-9835-de8a02f5047c)
-![Hologram_2](https://github.com/ACX66/Hologram/assets/104246753/e1a98da3-e891-4cbc-a5ef-281f088f66ea)
+![Hologram_1](https://github.com/ACX66/Hologram/assets/104246753/b4869248-0aaa-4030-b2ec-26ec8aaa7ddf)
+![Hologram_2](https://github.com/ACX66/Hologram/assets/104246753/fed8136a-4128-4702-b27e-ee65c87c898b)
+
