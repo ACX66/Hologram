@@ -18,21 +18,21 @@
 // Please FILL UP the content in this area before developing your plugin, and DO NOT modify any code
 // outside this area.
 
-static_assert(false, "Please modify your plugin information below and delete this line!");
+// static_assert(false, "Please modify your plugin information below and delete this line!");
 
 // The basic descriptions of your plugin
 // Note that the the plugin name CAN ONLY CONTAIN Enlish alphabet, digit, dash(-) and
 // underscore(_). 
-#define PLUGIN_NAME "HelloWorldPrinter"
+#define PLUGIN_NAME "Hologram"
 // Describe what your plugin does
 // We recommend you start the introduction with a third-person singular verb.
-#define PLUGIN_INTRODUCTION "Prints \"Hello, World!\" in the console."
-#define PLUGIN_AUTHOR "Me"
+#define PLUGIN_INTRODUCTION "Show the floating texts !"
+#define PLUGIN_AUTHOR "CanXue"
 
 // The version of your plugin. If you do not know how to set it, please refer
 // to https://semver.org/ .
-#define PLUGIN_VERSION_MAJOR 0
-#define PLUGIN_VERSION_MINOR 1
+#define PLUGIN_VERSION_MAJOR 1
+#define PLUGIN_VERSION_MINOR 2
 #define PLUGIN_VERSION_REVISION 0
 #define PLUGIN_VERSION_BUILD 0
 #define PLUGIN_VERSION_ACTIONS 0
@@ -45,7 +45,7 @@ static_assert(false, "Please modify your plugin information below and delete thi
 // please start the latest version of LiteLoaderBDS and get the protocol version.
 // If you are confident about the version compatibility of your plugin, you can
 // just comment this line (NOT RECOMMENDED).
-#define TARGET_BDS_PROTOCOL_VERSION 582
+// #define TARGET_BDS_PROTOCOL_VERSION 589
 
 // ***************************************************************************************
 // ***************************************************************************************
